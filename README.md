@@ -2,7 +2,8 @@
 notes for Deep Learning Workshops
 
 ## lecture notes:
-- [machine learning fundamentals](DeepLearningWorkshops.pdf.pdf)
+- [machine learning fundamentals](ML_fundamentals.pdf)
+- [convolutional neural networks and GANs](CNNs_and_GANs.pdf)
 
 ## laboratory classes
 1. Handwritten digits classification using MNIST dataset with Pytorch
